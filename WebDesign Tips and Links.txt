@@ -1,0 +1,21 @@
+Web Design Tools and Sites for Designers...
+
+Top sites for WebDesign:-
+
+-> Webflow 
+-> Figma
+
+Typogrphy:
+
+1.Layout (Grid Columns)
+	- Gri layout menu
+	- Text alignments
+	- pargraph
+
+2.Typography
+	- Type Personality
+	- Fonts (using google fonts,dafonts,myfonts,adobe fonts)
+	- mixing fonts (2)
+
+3. Art of Color
+	- 
